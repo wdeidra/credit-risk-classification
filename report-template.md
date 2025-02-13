@@ -105,3 +105,4 @@ Based on the evaluation metrics, the Logistic Regression model is recommended fo
 The performance of the model depends on the specific problem being addressed. In the context of loan prediction, it might be more critical to accurately predict high-risk loans to mitigate financial losses. However, if reducing false negatives is more important, higher recall for the 1 class is crucial.
 
 * If you do not recommend any of the models, please justify your reasoning.
+I recommend one of these models
